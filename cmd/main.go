@@ -1,7 +1,11 @@
 package main
 
-import lictestrepo3 "github.com/JCPrice0024/lic-testing/lic-testRepo3"
+import (
+	"fmt"
+
+	lictestrepo2 "github.com/JCPrice0024/lic-testRepo2"
+)
 
 func main() {
-	lictestrepo3.Subtraction(10, 5)
+	fmt.Println(lictestrepo2.WelcomeUser("Jcprice"))
 }
