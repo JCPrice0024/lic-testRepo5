@@ -11,6 +11,6 @@ import (
 func main() {
 
 	fmt.Println(lictestrepo2.WelcomeUser("JCPrice0024"))
-	fmt.Println(lictestrepo3.Subtraction(7127, 123))
+	fmt.Println(lictestrepo3.Subtraction(111, 11))
 	fmt.Println(lictestrepo4.Addition(7127, 123))
 }

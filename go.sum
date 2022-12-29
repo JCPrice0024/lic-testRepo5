@@ -1,6 +1,10 @@
+github.com/JCPrice0024/lic-testRepo1 v0.0.0-20221229205625-2c7f453ff38b h1:R3MDXzDyW+iWW3sBGQAhNfCm23ApSX5S7VfYVTG42z8=
+github.com/JCPrice0024/lic-testRepo1 v0.0.0-20221229205625-2c7f453ff38b/go.mod h1:sISu5352ycDvxqkBlOuGUuL54wuc+afaS3YJQXDpcZg=
 github.com/JCPrice0024/lic-testRepo2 v0.0.0-20221229205555-8d8869287443 h1:tJWN098cksJXgWmYUFYNLNnk9XiP1ywjdDOZlmYlm0Y=
 github.com/JCPrice0024/lic-testRepo2 v0.0.0-20221229205555-8d8869287443/go.mod h1:RRI1yLtTg09y6G1OTDaIMySjJKtczvkRucP44TMJbxI=
 github.com/JCPrice0024/lic-testRepo3 v0.0.0-20221229205528-f34bd2e42a43 h1:WA0gnTcWxhZiv33GTMZzH3WHNNvluAFN/XlaKp1H9U8=
 github.com/JCPrice0024/lic-testRepo3 v0.0.0-20221229205528-f34bd2e42a43/go.mod h1:buDfYiimqn13nxgji2LjTMNLJn5qizKaCqiQNoU7mLQ=
+github.com/JCPrice0024/lic-testRepo3 v0.0.1 h1:njEUe6v8JAOdWpzVv5edoJ3KCIylbaGj9yTNAYmw8YA=
+github.com/JCPrice0024/lic-testRepo3 v0.0.1/go.mod h1:Pha5Y3nN/TXvCFaPlUMpETdChQZ6ZwZB2RhY7Lk4e4k=
 github.com/JCPrice0024/lic-testRepo4 v0.0.0-20221229205507-8cae7c274bcd h1:ksSjO0MlrqOlZdqXy8a6zln9Lep7yPXjCQp71dGFFi4=
 github.com/JCPrice0024/lic-testRepo4 v0.0.0-20221229205507-8cae7c274bcd/go.mod h1:EYYcw2oxbuUkc5evzYKeTUkyH+ZI6ES07SdE9c6GLrQ=
